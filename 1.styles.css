@@ -34,7 +34,7 @@ footer {
 	margin-bottom: 20px;
 }
 footer p {
-	color: white;
+	color: rgb(223, 203, 203);
 	margin-bottom: 5px;
 }
 
@@ -48,7 +48,7 @@ footer p {
 	padding: 10px 0;
 }
 .center h2 {
-	font-family: Arial;
+	font-family: 'Times New Roman', Times, serif;
 	text-align: center;
 }
 .center p {
