@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color: green;
+	text-align: center;
+	font-family: Arial;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+header h1, header p {
+	margin: 10px 0;
+	color: white;
+}
+
+.address {
+	background-color: red;
+	text-align: center;
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.address h2, .address p {
+	font-family: Arial;
+	margin: 10px 0;
+	color: white;
+}
+
+footer {
+	background-color: orange;
+	text-align: center;
+	font-family: Arial;
+	padding: 50px 0 5px;
+	margin-bottom: 20px;
+}
+footer p {
+	color: white;
+	margin-bottom: 5px;
+}
+
+.main {
+	margin-bottom: 20px;
+}
+.center {
+	width: 800px;
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.center h2 {
+	font-family: Arial;
+	text-align: center;
+}
+.center p {
+	text-align: justify;
+}
